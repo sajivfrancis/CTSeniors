@@ -83,6 +83,10 @@ var directionsService;
 var currentPosition;
 var markers = [];
 
+/**
+ * Initialize google maps
+ * @returns {undefined}
+ */
 function initMap() {
     geocoder = new google.maps.Geocoder();
     directionsService = new google.maps.DirectionsService();
@@ -90,6 +94,12 @@ function initMap() {
     center(41.6032, -73.0877);
 }
 
+/**
+ * center the google maps on the screen and put a marker on it
+ * @param {int} lat
+ * @param {int} lng
+ * @returns {undefined}
+ */
 function center(lat, lng) {
     var myLatLng = {lat: lat, lng: lng};
     map = new google.maps.Map(document.getElementById('map'), {
@@ -113,6 +123,16 @@ function center(lat, lng) {
     });
 }
 
+
+/**
+ * center the map on the given address, calculate the shortest route and place a marker 
+ * @param {string} label
+ * @param {string} address
+ * @param {string} city
+ * @param {string} state
+ * @param {string} icon
+ * @returns {undefined}
+ */
 function codeAddress(label, address, city, state, icon) {
     var fullAddress = address + " " + city + " " + state;
     console.log(fullAddress);
@@ -147,7 +167,11 @@ function codeAddress(label, address, city, state, icon) {
         }
     });
 }
-
+/*
+ * Calculate the route to the destination address - using current location
+ * @param {string} end destination address
+ * @returns {undefined}
+ */
 function calcRoute(end) {
     getGoogleLocation();
     var request = {
@@ -167,7 +191,6 @@ function calcRoute(end) {
  */
 getGoogleLocation();
 
-// A $( document ).ready() block.
 $(document).ready(function () {
     getLocation();
 });
