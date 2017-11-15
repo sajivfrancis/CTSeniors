@@ -12,7 +12,7 @@
         include './navbar.php';
         ?>
         <div class="container-fluid" style="padding: 0;">
-            <iframe width="1024" height="1024" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ocoWdYZIynYesd3MoT2n3VbMwy5QBGYsS-u4E8e7j0nNMa7VatUl5ZPF1jmv7JqdBttCEMafapMS/pubhtml?gid=1755509348&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+            <iframe width="1200" height="1024" frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ocoWdYZIynYesd3MoT2n3VbMwy5QBGYsS-u4E8e7j0nNMa7VatUl5ZPF1jmv7JqdBttCEMafapMS/pubhtml?gid=1755509348&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
         </div>
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
