@@ -19,7 +19,6 @@
                 <div class="col-xs-1"></div>
                 <div class="col-xs-10">
                     <center><h1><p>Welcome</p></h1></Center>
-                    <center><h2><p>'CT - Seniors'</p></h2></Center>
                 </div> 
                 <div class="col-xs-10">
                     <center><form action="results.php" method="post" class="form-inline my-2 my-lg-0">
