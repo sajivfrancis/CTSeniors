@@ -18,7 +18,8 @@
             <div class="row text-center">             
                 <div class="col-xs-1"></div>
                 <div class="col-xs-10">
-                    <center><h1>Welcome 'CT - Seniors'</h1></Center>
+                    <center><h1><p>Welcome 'CT - Seniors',</p></h1></Center>
+                    <center><h1><p>'CT - Seniors',</p></h1></Center>
                 </div> 
                 <div class="col-xs-10">
                     <center><form action="results.php" method="post" class="form-inline my-2 my-lg-0">
