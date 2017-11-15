@@ -7,6 +7,18 @@
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
         <link href="style.css" rel="stylesheet" type="text/css"/>
     </head>
+    <style>
+        .SearchBar {
+            position: absolute;
+            top: 355px;
+            left: 575px;
+        }
+
+        .SearchBar input {
+            height: 30px;
+            width: 50px;
+        }
+    </style>
     <body>
         <?php
         include './navbar.php';
@@ -22,7 +34,7 @@
                 </div> 
                 <div class="col-xs-10">
                     <center><form action="results.php" method="post" class="form-inline my-2 my-lg-0">
-                            <input class="form-control mr-sm-2" type="text" name="user_query" placeholder="Search" size="90">
+                            <input class="form-control mr-sm-2" type="text" name="user_query" placeholder="Search" size="120">
                             <button class="btn btn-primary active" type="submit" value="Search Now">Search</button>
                         </form></center>
                 </div>
