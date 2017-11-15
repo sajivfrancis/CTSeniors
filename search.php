@@ -18,6 +18,7 @@
                     <center><h1>Welcome CT - Seniors</h1></Center>
                 </div> 
                 <div class="col-xs-10">
+                    <img src="img/logo3.png" class="img img-responsive" alt="Responsive image">
                     <center><form action="results.php" method="post" class="form-inline my-2 my-lg-0">
                             <input class="form-control mr-sm-2" type="text" name="user_query" placeholder="Search" size="90">
                             <button class="btn btn-primary active" type="submit" value="Search Now">Search</button>
