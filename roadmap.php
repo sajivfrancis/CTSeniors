@@ -15,13 +15,31 @@
             <div class="row text-center">
                 <img src="img/ctseniorsabout.png" class="center-block img-responsive"/>
             </div>
-            <div class="row">
-                <div class="col-xs-1"></div>
-                <div class="col-xs-10">
-                    <center><h1>About CTSeniors</h1></Center>
-                    <h2>We are in the process of making Connecticut a more hospitable place for all seniors living in the state. We would like to provide an easy-to-use web interface for Seniors to search, find results, get directions and much more. This website is still in development stage and we would be more than glad to get your feedback</h2>
-                </div>
-                <div class="col-xs-1"></div>
+            <div class="list-group">
+                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">List group item heading</h5>
+                        <small>3 days ago</small>
+                    </div>
+                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                    <small>Donec id elit non mi porta.</small>
+                </a>
+                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">List group item heading</h5>
+                        <small class="text-muted">3 days ago</small>
+                    </div>
+                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                    <small class="text-muted">Donec id elit non mi porta.</small>
+                </a>
+                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">List group item heading</h5>
+                        <small class="text-muted">3 days ago</small>
+                    </div>
+                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+                    <small class="text-muted">Donec id elit non mi porta.</small>
+                </a>
             </div>
         </div>
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
