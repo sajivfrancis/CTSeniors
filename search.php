@@ -11,7 +11,7 @@
         <?php
         include './navbar.php';
         ?>
-        <div class="container-fluid mainpage" style="padding: 90;">
+        <div class="container-fluid mainpage" style="padding: 120;">
             <video autoplay loop id="video-background" muted plays-inline>
                 <source src="img/senior3.m4v" type="video/mp4">
             </video>
@@ -19,7 +19,7 @@
                 <div class="col-xs-1"></div>
                 <div class="col-xs-10">
                     <center><h1><p>Welcome</p></h1></Center>
-                    <center><h2><p>'CT - Seniors',</p></h2></Center>
+                    <center><h2><p>'CT - Seniors'</p></h2></Center>
                 </div> 
                 <div class="col-xs-10">
                     <center><form action="results.php" method="post" class="form-inline my-2 my-lg-0">
