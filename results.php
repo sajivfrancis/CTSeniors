@@ -12,7 +12,7 @@
         include './navbar.php';
         ?>
         <div class="container-fluid" style="padding: 0;">
-            <iframe width="700" height="900" frameborder="0" scrolling="no" src="https://fairfield0-my.sharepoint.com/personal/sajiv_francis_fairfield_edu/_layouts/15/WopiFrame.aspx?sourcedoc={ca660ba7-a440-4486-b42b-d38c4cee2e8c}&action=embedview&ActiveCell='CT%20SENIORS%20'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True"></iframe>
+            <iframe width="700" height="900" frameborder="0" scrolling="no" src="https://fairfield0-my.sharepoint.com/personal/sajiv_francis_fairfield_edu/_layouts/15/WopiFrame.aspx?sourcedoc={53712e18-ccc6-4466-b1ec-eb1069fa4459}&action=embedview&wdAllowInteractivity=False&ActiveCell='CT%20SENIORS%20'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True"></iframe>
         </div>
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
