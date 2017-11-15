@@ -11,7 +11,7 @@
         <?php
         include './navbar.php';
         ?>
-        <div class="container-fluid mainpage" style="padding: 0;">
+        <div class="container-fluid mainpage" style="padding: 2;">
             <div class="row text-center">             
                 <div class="col-xs-1"></div>
                 <div class="col-xs-10">
