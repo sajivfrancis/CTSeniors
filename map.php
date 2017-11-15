@@ -187,11 +187,11 @@
             </div>
         </div>   
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="js/script.js"></script>
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3DuW4xAvzcZqtAYEJKuUNKzSDwHZb_y8&callback=initMap&libraries=places,visualization"></script>
         <script src="js/soda-js.bundle.js" type="text/javascript"></script>
         <script src="js/fontawesome-markers.min.js" type="text/javascript"></script>
         <script src="js/markerwithlabel.js" type="text/javascript"></script>
-        <script src="js/script.js"></script>
 
     </body>
 </html>
