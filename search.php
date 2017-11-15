@@ -11,14 +11,14 @@
         <?php
         include './navbar.php';
         ?>
-        <div class="container-fluid mainpage" style="padding: 80;">
+        <div class="container-fluid mainpage" style="padding: 90;">
             <video autoplay loop id="video-background" muted plays-inline>
                 <source src="img/senior3.m4v" type="video/mp4">
             </video>
             <div class="row text-center">             
                 <div class="col-xs-1"></div>
                 <div class="col-xs-10">
-                    <center><h1>Welcome CT - Seniors</h1></Center>
+                    <center><h1>Welcome 'CT - Seniors'</h1></Center>
                 </div> 
                 <div class="col-xs-10">
                     <center><form action="results.php" method="post" class="form-inline my-2 my-lg-0">
