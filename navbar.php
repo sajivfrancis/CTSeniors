@@ -17,8 +17,10 @@
             <ul class="nav navbar-nav">
                 <li><a href="about.php"><i class="fa fa-info-circle" aria-hidden="true"></i> About CT-Seniors</a></li>
                 <li><a href="map.php"><i class="fa fa-map" aria-hidden="true"></i> Maps</a></li>
+                li><a href="search.php"><i class="fa fa-envelope-o" aria-hidden="true"></i> Search</a></li>
+                li><a href="roadmap.php"><i class="fa fa-envelope-o" aria-hidden="true"></i> Roadmap</a></li>
                 <li><a href="contact.php"><i class="fa fa-envelope-o" aria-hidden="true"></i> Contact us</a></li>
-                
+
             </ul>
 
         </div><!--/.nav-collapse -->
