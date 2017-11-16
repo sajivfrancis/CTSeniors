@@ -6,40 +6,15 @@ Getting Started
 
 Basic Url: https://ctseniors.projectsatfairfield.me
 
-Search: https://ctseniors.projectsatfairfield.me/about.php
-
-                                                     Welcome screen
+Search: https://ctseniors.projectsatfairfield.me/results.php
 
 ![image](https://user-images.githubusercontent.com/33659326/32867735-dbb69740-ca3c-11e7-994d-4153c6776212.png)
 
-
-## Required
-
-Javascript Files:
-Pull </> CTSeniors/js/                                        ……in .JS (Java script)
-
-	-fontawesome-markers.min.js
-	
-  -mapStyle.js
-	
-  -markerwithlabel.js
-	
-  -script.js	
-	
-  -soda-js.bundle.js
-	
-  -soda-js.js
-    
-Pull</> CTSeniors/nbprojects 
-	
-  -project.properties
-	
-  -project.xml
-    
-Pull</> CTSeniors/img 
-
-![image](https://user-images.githubusercontent.com/33659326/32868062-7147c634-ca3e-11e7-95e6-7e6115285b69.png)
-
+About page: Find information about this website
+Maps page: Find directions to addresses defined by categories such as Health, Housing, Government programs and resources.
+Search page: Database to build a search engine on category lists.
+Roadmap page: Future functionalities that can be built on this web applicaiton.
+Contact page: For more information about this projects, contact us.
 
 ## Server Deployment
 
@@ -51,12 +26,16 @@ MySql
 ### Software Components
 
 Javascript
+    - Jquery
+    - Soda API
+    - Google Maps API
 CSS
 PHP
 HTML5
 
 
 ## Contributing:
+
 When contributing to this repository, please discuss your ideas with ways to provide web-solutions for seniors.
 
 Code of Conduct:
