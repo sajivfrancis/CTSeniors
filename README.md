@@ -30,9 +30,13 @@ MySql
 ### Software Components
 
 Javascript
+
     - Jquery
+
     - Soda API
+
     - Google Maps API
+
 CSS
 PHP
 HTML5
