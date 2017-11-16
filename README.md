@@ -11,9 +11,13 @@ Search: https://ctseniors.projectsatfairfield.me/results.php
 ![image](https://user-images.githubusercontent.com/33659326/32867735-dbb69740-ca3c-11e7-994d-4153c6776212.png)
 
 About page: Find information about this website
+
 Maps page: Find directions to addresses defined by categories such as Health, Housing, Government programs and resources.
+
 Search page: Database to build a search engine on category lists.
+
 Roadmap page: Future functionalities that can be built on this web applicaiton.
+
 Contact page: For more information about this projects, contact us.
 
 ## Server Deployment
