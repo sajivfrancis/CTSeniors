@@ -16,44 +16,40 @@
                 <img src="img/roadmap.png" class="center-block img-responsive"/>
             </div>
             <div class="list-group">
-                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start active">
+                <a href="https://www.cttransit.com/" class="list-group-item list-group-item-action flex-column align-items-start active">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Shuttle Services</h5>
+                        <h5 class="mb-1">CT Transit</h5>
                     </div>
-                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-                    <small>Donec id elit non mi porta.</small>
+                    <p class="mb-1">Connecticut Transit is a bus system serving much of the U.S. state of Connecticut and is a division of that state's Department of Transportation.</p>
+                    <small>Transport Services</small>
                 </a>
-                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                <a href="http://www.hartfordtransit.org/" class="list-group-item list-group-item-action flex-column align-items-start active">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">GHTD-Hartford</h5>
-                        <small class="text-muted">3 days ago</small>
+                        <h5 class="mb-1">GHTD - Hartford Transit</h5>
                     </div>
-                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-                    <small class="text-muted">Donec id elit non mi porta.</small>
+                    <p class="mb-1">The GHTD is a quasi-municipal corporation operating under the authority of Chapter 103a of the Connecticut General Statutes. There are currently sixteen member towns represented by appointees who collectively form the Board of Directors.</p>
+                    <small>Transport Services</small>
                 </a>
-                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                 <a href="http://www.gogbt.com/" class="list-group-item list-group-item-action flex-column align-items-start active">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">GBT-Bridgeport</h5>
-                        <small class="text-muted">3 days ago</small>
+                        <h5 class="mb-1">GBT - Bridgeport Transit</h5>
                     </div>
-                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-                    <small class="text-muted">Donec id elit non mi porta.</small>
+                    <p class="mb-1">Greater Bridgeport Transit (GBT) provides local, regional and express bus services throughout the Bridgeport region with routes extending from Milford to Norwalk and from Bridgeport to the Naugatuck Valley.</p>
+                    <small>Transport Services</small>
                 </a>
-                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                <a href="https://www.quandl.com/?modal=register" class="list-group-item list-group-item-action flex-column align-items-start active">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Norwalk Transit</h5>
-                        <small class="text-muted">3 days ago</small>
+                        <h5 class="mb-1">API - Housing Data</h5>
                     </div>
-                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-                    <small class="text-muted">Donec id elit non mi porta.</small>
+                    <p class="mb-1">The premier source for financial, economic, and alternative datasets, serving investment professionals. </p>
+                    <small>Housing - Real Estate</small>
                 </a>
-                <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+                <a href="https://www.opendatanetwork.com/dataset/data.ct.gov/tids-7w95" class="list-group-item list-group-item-action flex-column align-items-start active">
                     <div class="d-flex w-100 justify-content-between">
-                        <h5 class="mb-1">Real Estate Listings</h5>
-                        <small class="text-muted">3 days ago</small>
+                        <h5 class="mb-1">API - CT Occupational Employment & Wages</h5>
                     </div>
-                    <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
-                    <small class="text-muted">Donec id elit non mi porta.</small>
+                    <p class="mb-1">The Connecticut Occupational Employment and Wage data provides employment and wage data by occupation and is based on the results of the Occupational Employment Statistics (OES) survey.</p>
+                    <small>Employment & Wages</small>
                 </a>
             </div>
         </div>
