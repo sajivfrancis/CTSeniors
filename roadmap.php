@@ -23,7 +23,7 @@
                     <p class="mb-1">Connecticut Transit is a bus system serving much of the U.S. state of Connecticut and is a division of that state's Department of Transportation.</p>
                     <small>Transport Services</small>
                 </a>
-                <a href="http://www.hartfordtransit.org/" class="list-group-item list-group-item-action flex-column align-items-start active">
+                <a href="http://www.hartfordtransit.org/" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="d-flex w-100 justify-content-between">
                         <h5 class="mb-1">GHTD - Hartford Transit</h5>
                     </div>
@@ -37,7 +37,7 @@
                     <p class="mb-1">Greater Bridgeport Transit (GBT) provides local, regional and express bus services throughout the Bridgeport region with routes extending from Milford to Norwalk and from Bridgeport to the Naugatuck Valley.</p>
                     <small>Transport Services</small>
                 </a>
-                <a href="https://www.quandl.com/?modal=register" class="list-group-item list-group-item-action flex-column align-items-start active">
+                <a href="https://www.quandl.com/?modal=register" class="list-group-item list-group-item-action flex-column align-items-start">
                     <div class="d-flex w-100 justify-content-between">
                         <h5 class="mb-1">API - Housing Data</h5>
                     </div>
