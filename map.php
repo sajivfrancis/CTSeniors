@@ -174,6 +174,8 @@
                             </div>
                         </div>
                     </div>
+                    
+                  
 
                     <div class="panel panel-default" id="directions">
                         <div class="panel-heading">Directions</div>
